@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "choices": [
+      "Hyper Tool Markup Language",
+      "HyperText Markup Language",
+      "High Text Machine Language",
+      "HyperText Making Language"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which HTML tag creates the largest heading?",
+    "choices": ["<h6>", "<head>", "<h1>", "<header>"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Which CSS property changes the text color?",
+    "choices": ["font-color", "text-style", "background", "color"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "question": "Which keyword declares a variable that cannot be reassigned in JavaScript?",
+    "choices": ["const", "let", "var", "static"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "choices": ["JSON.stringify()", "JSON.parse()", "JSON.convert()", "JSON.object()"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Which Local Storage method saves a value?",
+    "choices": ["localStorage.save()", "localStorage.put()", "localStorage.setItem()", "localStorage.add()"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Which array method creates a new array by transforming every element?",
+    "choices": ["filter()", "forEach()", "find()", "map()"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "What does typeof [] return in JavaScript?",
+    "choices": ["object", "array", "list", "undefined"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Which Bootstrap class creates a centered, responsive page container?",
+    "choices": ["wrapper", "container", "box-center", "page"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Which method reads a fetch() response body as JSON?",
+    "choices": ["response.text()", "response.body()", "response.json()", "response.parse()"],
+    "correctAnswer": 2
+  }
+]
