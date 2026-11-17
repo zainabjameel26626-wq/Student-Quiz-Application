@@ -4,10 +4,6 @@ A quiz app for students built with HTML, CSS, Bootstrap 5, JavaScript and Local 
 
 **Live demo:** https://zainabjameel26626-wq.github.io/Student-Quiz-Application/
 
-## Screenshots
-
-<!-- Drag your screenshots here while editing this file on GitHub -->
-
 ## Features
 - Register and login with Local Storage
 - Protected quiz and result pages (redirects to login if not signed in)
